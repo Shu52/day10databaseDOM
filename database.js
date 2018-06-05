@@ -28,7 +28,7 @@ const populateDOMForDataset =(dataset) =>{
 }
 populateDOMForDataset("furniture")
 
-myStuffArticle.appendChild(homeInventoryFragment)
+artRef.appendChild(homeInventoryFragment)
 
 // for (let table in HomeInventoryDatabase){
 //     const invTable = HomeInventoryDatabase[table]
